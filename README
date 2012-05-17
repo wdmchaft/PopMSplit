@@ -1,0 +1,43 @@
+PopMSplit
+
+	PopMSplit allows it's user to "split" a movie (avi, flv, m4v, mkv, mov, mp4,
+ogg) into multiple different segments. Along with splitting the movie
+up, it can also be used to extract segments of audio and/or video from a movie
+file, and to convert containers.
+PopMSplit uses ffmpeg -vcodec copy option to split your movies as quickly as you
+can copy them with 0 loss to quality. NO MORE RE-ENCODING!!!
+But, if you want, or need to re-encode, then go ahead and do so, PopMSplit can
+do that too.
+
+Download
+
+http://www.popmedic.com/downloads/PopMSplit.dmg
+Pop Movie Splitter for OS X 10.7.x
+	
+http://www.popmedic.com/downloads/ffmpeg-static-build-201205051607.zip
+Standalone Mac OS X build of ffmpeg 0.10.2. Has all the codecs needed and
+	enabled.
+
+http://www.popmedic.com/downloads/mp4v2-static-build-201205051608.zip
+Standalone Mac OS X build of mp4v2 1.9.1. Add chapters, subtitles, artwork,
+	tags, and more to mp4 files.
+
+Install
+
+Download Pop Movie Splitter for OS X.
+Open PopMSplit.dmg by double clicking on it in finder.
+Drag PopMSplit into your Applications directory.
+Double click on Applications/PopMSplit
+
+Documentation
+
+http://www.popmedic.com/popmsplit/#doc-banner-ref
+
+Contact
+
+popmedic@popmedic.com
+To report a problem, please provide me with some info. Let me know what the
+output was, just cut and past that geeky data from the Splitting Window and send
+it to the above contact. Also a copy of the file you are trying to split, could
+help, but not too big.
+Send all feature requests to the same email address.
